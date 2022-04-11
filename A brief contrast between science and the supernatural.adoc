@@ -1,0 +1,47 @@
+= A brief contrast between science and the supernatural
+Sam Macharia, PhD
+
+:substack: https://SamMachariaPhD.substack.com 
+:medium: https://sammachariaphd.medium.com 
+:wordpress: https://sammachariaphd.wordpress.com 
+:blogspot: https://sammachariaphd.blogspot.com 
+
+:toc: auto
+
+image::Natural-or-Supernatural.jpg[]
+
+Scientific research is a process used by humans to try and elucidate nature. This process is not perfect, but it is the best we have so far. By understanding and manipulating natural entities, humans conquer life challenges. Unfortunately, science has a long way to go. Several queries may never be resolved in your lifetime. Questions such as, Why is there anything at all? Are we alone in the universe? How did life begin? What is consciousness? In an attempt to push the frontiers of human knowledge, we tend to blend science with imagination or the supernatural. Here is a list that detangles science from the supernatural. 
+
+* While supernatural claims are unfalsifiable, scientific claims are falsifiable.
+* Scientific claims are reproducible, whereas supernatural miracles and phenomena are not.
+* Science demands objective evidence, and the supernatural demands credulous faith.
+* On the one hand, science is guided by natural laws, while on the other, the will of an unfathomable supernatural being constitutes the supernatural.
+* Unlike science, supernatural claims are not empirically testable.
+* The supernatural is not independently peer-reviewed, but science is.
+* Science thrives in skepticism, while the supernatural is threatened by it.
+* Scientific claims may change depending on the available evidence, while most supernatural claims are unchanging and divine.
+* Science recognizes the unknown, but the supernatural tends to know it all.
+* People can understand scientific claims by examining the provided evidence, but it may take time and dedication. In contrast, the intrinsic nature of the supernatural is incomprehensible but is accepted without examining any evidence.
+* Scientific predictions are verifiably reliable, while supernatural ones are not.
+* While scientific claims align with the evidence of nature, the evidence of nature is forced to conform to preexisting supernatural claims.
+
+People can pass school exams, have master's or doctoral degrees in science, lecture in top universities, write peer-reviewed papers in high-impact journals, and still decide not to recognize that supernatural claims are inherently incompatible with science.
+
+=== Posted on
+
+:substack-post: https://sammachariaphd.substack.com/p/a-brief-contrast-between-science?s=r  
+:medium-post: https://sammachariaphd.medium.com/a-brief-contrast-between-science-and-the-supernatural-e2135d249705 
+:wordpress-post: https://sammachariaphd.wordpress.com/2022/03/06/a-brief-contrast-between-science-and-the-supernatural 
+:blogpost-post: https://sammachariaphd.blogspot.com/2022/03/a-brief-contrast-between-science-and.html 
+
+. {substack-post}[Substack]
+. {medium-post}[Medium]
+. {wordpress-post}[Wordpress]
+. {blogpost-post}[Blogpost]
+
+=== Other articles
+
+* {substack}[SamMachariaPhD.substack.com]
+* {medium}[SamMachariaPhD.medium.com]
+* {wordpress}[SamMachariaPhD.wordpress.com]
+* {blogspot}[SamMachariaPhD.blogspot.com]
